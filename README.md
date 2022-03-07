@@ -107,60 +107,12 @@
 .
 .
 .
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
 
 
 Referências:
 
 Nubank, PagSeguro e Internet Banking CAIXA.
 
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
 .
 .
 .
@@ -277,30 +229,6 @@ bancário, no qual são armazenados dados sigilosos de vários usuários, transa
 financeiras e movimentações bancárias. Diante disso, todo documento deve estar 
 dentro dos requisitos legais estabelecidos pela lei.
 
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
 .
 .
 .
