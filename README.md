@@ -1,11 +1,46 @@
 MODELAGEM DO DOMÍNIO DO PROBLEMA
+
 .
 .
 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+
 Referências:
 
 Nubank, PagSeguro e Internet Banking CAIXA.
 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
 .
 .
 .
@@ -20,6 +55,18 @@ dentro dos requisitos legais estabelecidos pela lei.
 .
 .
 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
 
 Descrição do Sistema:
 
