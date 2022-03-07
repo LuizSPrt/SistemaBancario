@@ -5,9 +5,11 @@ MODELAGEM DO DOMÍNIO DO PROBLEMA
 Referências:
 
 Nubank, PagSeguro e Internet Banking CAIXA.
+
 .
 .
 .
+
 Linguagem:
 
 Esse documento será apresentado em linguagem jurídica, por se tratar de um sistema 
@@ -17,6 +19,7 @@ dentro dos requisitos legais estabelecidos pela lei.
 .
 .
 .
+
 Descrição do Sistema:
 
 O sistema bancário foi desenvolvido para gestão financeira, no qual contém sistemas 
