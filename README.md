@@ -16,6 +16,7 @@ Esse documento será apresentado em linguagem jurídica, por se tratar de um sis
 bancário, no qual são armazenados dados sigilosos de vários usuários, transações 
 financeiras e movimentações bancárias. Diante disso, todo documento deve estar 
 dentro dos requisitos legais estabelecidos pela lei.
+
 .
 .
 .
